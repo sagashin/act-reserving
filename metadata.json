@@ -1,0 +1,6 @@
+{
+  "name": "ResQ-Next Actuarial Reserving Workbench",
+  "description": "Enterprise non-life insurance IBNR reserving workbench with interactive Chainladder & Bornhuetter-Ferguson link-ratio outlier exclusion, Mack standard error, ODP Bootstrap simulation, and AI Actuary audit diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
